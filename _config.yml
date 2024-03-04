@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Layoff memos expo"
+title: "LayoffMemos"
+description: "This webpage archives CEO memos regarding layoffs in the tech industry in 2019-2024. It offers a transparent view of how companies dealt with scaling down their operations, the rationale behind their decisions, and the impacts on their workforce. It provides insights into challenges faced by tech companies and their leadership approaches during tough times."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
@@ -48,7 +48,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 10
 paginate_path: /page:num/
     
 # Other
