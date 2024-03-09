@@ -38,13 +38,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
     
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:/
-    category: '/category/:name/'
     
 # Pagination commented out by LJ
 # paginate: 15
