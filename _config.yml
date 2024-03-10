@@ -4,7 +4,7 @@ title: "LayoffMemos"
 description: "This webpage archives CEO memos regarding layoffs in the tech industry in 2019-2024. It offers a transparent view of how companies dealt with scaling down their operations, the rationale behind their decisions, and the impacts on their workforce. It provides insights into challenges faced by tech companies and their leadership approaches during tough times."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
+# baseurl: /
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
