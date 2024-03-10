@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Amazon - one medical pharmacy"
-categories: [ Jekyll, tutorial ]
+categories: [ "2024" ]
 image: https://i.insider.com/65c2712643bb77284ba417ed?width=1300&format=jpeg&auto=webp
-featured: true
-hidden: true
+year: "2024"
 ---
 
 "We're seeing very strong momentum and positive customer feedback across our health care offerings. As we continue our mission to make health care simpler for customers, we're realigning some resources to help accelerate our efforts to deliver the best experience for our patients, customers, and members," Lindsay said in the statement.

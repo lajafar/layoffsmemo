@@ -3,8 +3,7 @@ layout: post
 title:  "Microsoft Activision Blizzard"
 categories: [ "2024" ]
 image: https://duet-cdn.vox-cdn.com/thumbor/0x0:3956x2614/1200x800/filters:focal(1978x1307:1979x1308):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25247723/1237824985.jpg
-featured: true
-hidden: true
+year: "2024"
 ---
 
 It’s been a little over three months since the Activision, Blizzard, and King teams joined Microsoft. As we move forward in 2024, the leadership of Microsoft Gaming and Activision Blizzard is committed to aligning on a strategy and an execution plan with a sustainable cost structure that will support the whole of our growing business. Together, we’ve set priorities, identified areas of overlap, and ensured that we’re all aligned on the best opportunities for growth.
